@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Yahya zaizi</h1>
+<h1 align="center">Hi 👋, I'm Yahya zaizi</h1>
 <h3 align="center">A passionate frontend developer from Maroc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyazaizi&label=Profile%20views&color=005454&style=flat" alt="yahyazaizi" /> </p>
